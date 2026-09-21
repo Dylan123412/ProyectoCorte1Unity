@@ -53,6 +53,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1926929659740479414}
     m_Modifications:
+    - target: {fileID: 3576061995617293757, guid: 94831839f8ce96841848623add254645, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 650256e84199c0a4f9ac6ce26d46f929, type: 2}
     - target: {fileID: 4908059745341137514, guid: 94831839f8ce96841848623add254645, type: 3}
       propertyPath: m_Name
       value: SmallWallHorizontal (4)
@@ -163,6 +167,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallWallVertical (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8130649765086424483, guid: 994cf564a19e1d44182e9d158fb96554, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 13a7971f44530954ba85c9f99a58cdbf, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -181,6 +189,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1926929659740479414}
     m_Modifications:
+    - target: {fileID: 3576061995617293757, guid: 94831839f8ce96841848623add254645, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 81b3183fcc093ea40aef87cee7762db8, type: 2}
     - target: {fileID: 4908059745341137514, guid: 94831839f8ce96841848623add254645, type: 3}
       propertyPath: m_Name
       value: SmallWallHorizontal
@@ -291,6 +303,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallWallVertical (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8130649765086424483, guid: 994cf564a19e1d44182e9d158fb96554, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7de47bef37b7e4e429bc732ddc1974c6, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -309,6 +325,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1926929659740479414}
     m_Modifications:
+    - target: {fileID: 3576061995617293757, guid: 94831839f8ce96841848623add254645, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 53166dc151dfb1d40b6ca378b7264cea, type: 2}
     - target: {fileID: 4908059745341137514, guid: 94831839f8ce96841848623add254645, type: 3}
       propertyPath: m_Name
       value: SmallWallHorizontal (6)
@@ -419,6 +439,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallWallVertical (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8130649765086424483, guid: 994cf564a19e1d44182e9d158fb96554, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: c908992fb0c3dfa4bb78070a38487599, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -437,6 +461,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1926929659740479414}
     m_Modifications:
+    - target: {fileID: 3576061995617293757, guid: 94831839f8ce96841848623add254645, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 91fa6ced5f8e8f443ac3029810add68c, type: 2}
     - target: {fileID: 4908059745341137514, guid: 94831839f8ce96841848623add254645, type: 3}
       propertyPath: m_Name
       value: SmallWallHorizontal (1)
@@ -499,6 +527,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1926929659740479414}
     m_Modifications:
+    - target: {fileID: 3576061995617293757, guid: 94831839f8ce96841848623add254645, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36e9a803cd46bec4f8492749d3f05b4a, type: 2}
     - target: {fileID: 4908059745341137514, guid: 94831839f8ce96841848623add254645, type: 3}
       propertyPath: m_Name
       value: SmallWallHorizontal (3)
@@ -609,6 +641,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallWallVertical (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8130649765086424483, guid: 994cf564a19e1d44182e9d158fb96554, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: e4f7c3783a594d6409b3ff0d6e24b954, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -675,6 +711,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallWallVertical (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8130649765086424483, guid: 994cf564a19e1d44182e9d158fb96554, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 53fdf0938c5477b41b2bff0af103e393, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -741,6 +781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallWallVertical
       objectReference: {fileID: 0}
+    - target: {fileID: 8130649765086424483, guid: 994cf564a19e1d44182e9d158fb96554, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: cf8022a38ae094e41b0b608651994ba2, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -759,6 +803,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1926929659740479414}
     m_Modifications:
+    - target: {fileID: 3576061995617293757, guid: 94831839f8ce96841848623add254645, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 54154ec72f30e074c9f7c99b636ec4a2, type: 2}
     - target: {fileID: 4908059745341137514, guid: 94831839f8ce96841848623add254645, type: 3}
       propertyPath: m_Name
       value: SmallWallHorizontal (2)
@@ -869,6 +917,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SmallWallVertical (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8130649765086424483, guid: 994cf564a19e1d44182e9d158fb96554, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 318f3f0c88a1bde45abef218e1b6eda7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -887,6 +939,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1926929659740479414}
     m_Modifications:
+    - target: {fileID: 3576061995617293757, guid: 94831839f8ce96841848623add254645, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7f6ec9b1f320a124c807298c8bac2f03, type: 2}
     - target: {fileID: 4908059745341137514, guid: 94831839f8ce96841848623add254645, type: 3}
       propertyPath: m_Name
       value: SmallWallHorizontal (5)
